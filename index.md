@@ -1,33 +1,32 @@
 # About Me
 
-Hi, I'm Evan. Currently I'm a junior at UW studying [Applied Computational Math and Sciences(ACMS)](https://acms.washington.edu/).
+Hi, I'm Evan. Currently I'm a junior at UW studying [Applied Computational Math and Sciences(ACMS)](https://acms.washington.edu/). I'm hoping to one day work in the software industry, especially for quantitative finance.
 
-![Dubs](uw-quad.jpg "A picture of Dubs a.k.a. UW Example Student")
+![uw](uw-quad.jpg "picture of UW campus with cherry blossoms in full bloom")
 
 ## Academics
 
-[ACMS](https://acms.washington.edu/) is a very broad major an. I am currently enrolled in **ENGL396: Software Documentation**.
+[ACMS](https://acms.washington.edu/) is a very broad major, so for my degree I have chosen to pursue a focus in Mathematical Economics and Quantitative Finance(MEQF lots of abbreviations ik). 
 
+I am currently enrolled in:
 
-Here is a list of my favorite classes at UW:
+* **ENGL 396: Software Documentation**
+* **MATH 395: Probability II**
+* **CFRM 415: Introduction to Financial Markets**
+* **CFRM 421: Machine Learning for Finance**
 
-- [Databases and Data Modeling](https://myplan.uw.edu/course/#/courses/INFO330?states=N4Ig7gDgziBcLADrgJYDsAmB7MAJApigOYAWALsrAIwCsALAEwA0yY62YACllCmSljSUGANgC%2BIMUA)
-- [Data Structures and Parallelism](https://courses.cs.washington.edu/courses/cse332/)
-- [Introduction to Professional and Technical Writing](https://english.washington.edu/courses/2024/winter/engl/288/g)
+## Current Projects
 
-## Programming Background
+Here's what I've been working on:
 
-I am relatively new to programming. The following table summarizes my experience with different programming languages:
+| Experience | Description | Language |
+|-----------|-------------|----------|
+| IMC Prosperity 3 | *Quant Finance Competition hosted by IMC* | Python |
+| EIA Supply Surprise | *Personal project researching Crude Oil Futures pricing* | Python |
+| WorldQuant IQC 2025 | *Algorithmic Trading Competition hosted by WorldQuant* | FAST |
 
-| Language | Experience |
-|---------:|------------|
-| Python   | Minimal    |
-|  HTML    | Authored many web pages    |
-|  SQL     | Can write complex joins       |
+## More me:
 
+If you'd like to learn even more about me:
 
-## Words of Wisdom
-
-One of my favorite quotes is from Albert Einstein:
-
-> "The only thing that you absolutely have to know, is the location of the library."
+[***click me***](about.html)
